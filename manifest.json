@@ -1,0 +1,30 @@
+{
+  "short_name": "IllinoisJo",
+  "name": "IllinoisJo - Your Custom Luxury Soap Company",
+  "description": "few ingredients. lots of love! ask us to create a new recipe just for you! we welcome all needs from moisturizing properties to lather feel and texture to fragrance or exfoliant. don't worry. we'll do all the hard stuff, while you await your handmade homemade gentle safe locally sourced soap! ​illinoisjo making grandma proud",
+  "icons": [
+    {
+      "src": "img/3dIJ5000.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/3dIJ5000.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/3dIJ5000.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#3f0654",
+  "display": "fullscreen",
+  "scope": ".",
+  "theme_color": "#3f0654"
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+
+    <title>Soaper's Corner</title>
+    <link>https://www.illinoisjo.com/SoapersCorner</link>
+    <description>The IllinoisJo Blog</description>
+    <image>https://www.illinoisjo.com/img/homemadeJo.png</image>
+    <webMaster>Matthew@IllinoisJo.com</webMaster>
+    <ttl>60</ttl>
+
+    <item>
+      <title>Easy Swirl Recipe</title>
+      <pubDate>Mon, 21 Dec 2020</pubDate>
+      <link>https://www.illinoisjo.com/SoapersCorner#EasySwirlRecipe</link>
+      <category>Recipes</category>
+      <description>The best recipe for creating swirls in your cold process soap!</description>
+      <enclosure url="http://www.illinoisjo.com/img/homemadeJo.png"/>
+      <comments>https://www.illinoisjo.com/EasySwirl.html</comments>
+    </item>
+
+    <item>
+      <title>Essential Oil Fragrance Blend List</title>
+      <pubDate>Fri, 18 Dec 2020</pubDate>
+      <link>https://www.illinoisjo.com/SoapersCorner#EO_blends</link>
+      <category>Information</category>
+      <description>Build your own fragrances with essential oils. Here's a few to get your started!</description>
+      <enclosure url="http://www.illinoisjo.com/img/homemadeJo.png"/>
+      <comments>https://www.illinoisjo.com/EO_blends.html</comments>
+    </item>
+
+    <item>
+      <title>Dry Feet Soap Recipe</title>
+      <pubDate>Fri, 18 Dec 2020</pubDate>
+      <link>https://www.illinoisjo.com/SoapersCorner#Dry_feet_recipe</link>
+      <category>Recipes</category>
+      <description>Perfect for hard dry feet! Use this fantastic exfoliating recipe after soaking your feet.</description>
+      <enclosure url="http://www.illinoisjo.com/img/homemadeJo.png"/>
+      <comments>https://www.illinoisjo.com/Dry_feet_recipe.html</comments>
+    </item>
+
+
+    <item>
+      <title>Soap Oil Qualities</title>
+      <pubDate>Thu, 17 Dec 2020</pubDate>
+      <link>https://www.illinoisjo.com/SoapersCorner#Qualities</link>
+      <category>Information</category>
+      <description>The perfect spreadsheet to help discover and organize your next soap recipe!</description>
+      <enclosure url="http://www.illinoisjo.com/img/homemadeJo.png"/>
+      <comments>https://www.illinoisjo.com/qualities.html</comments>
+    </item>
+
+  </channel>
+
+</rss>
